@@ -1,0 +1,6 @@
+streamlit
+pymongo
+pandas
+geopy
+pydeck
+folium
